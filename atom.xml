@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/penjc/plog</id>
+    <id>https://penjc.github.io/plog</id>
     <title>Plog</title>
-    <link href="https://github.com/penjc/plog" />
+    <link href="https://penjc.github.io/plog" />
     <updated>2025-01-02T08:51:14.112Z</updated>
     <entry>
-        <id>https://github.com/penjc/plog/2025/01/02/hello-world/</id>
+        <id>https://penjc.github.io/plog/2025/01/02/hello-world/</id>
         <title>Hello World</title>
-        <link rel="alternate" href="https://github.com/penjc/plog/2025/01/02/hello-world/"/>
+        <link rel="alternate" href="https://penjc.github.io/plog/2025/01/02/hello-world/"/>
         <content type="html">&lt;p&gt;Welcome to &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&#34;https://hexo.io/docs/&#34;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&#34;https://hexo.io/docs/troubleshooting.html&#34;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&#34;https://github.com/hexojs/hexo/issues&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
 &lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
